@@ -3,7 +3,7 @@ import { motion as m } from "framer-motion";
 
 export default function Navbar() {
   return (
-    <nav className="text-2xl font-medium">
+    <nav className="text-2xl font-medium z-20 relative">
       <ul className="flex gap-12">
         <Link href={"/"}>
           <li>Home</li>

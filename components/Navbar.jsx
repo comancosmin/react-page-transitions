@@ -1,0 +1,17 @@
+import Link from "next/link";
+import { motion as m } from "framer-motion";
+
+export default function Navbar() {
+  return (
+    <nav className="text-2xl font-medium">
+      <ul className="flex gap-12">
+        <Link href={"/"}>
+          <li>Home</li>
+        </Link>
+        <Link href={"/contact"}>
+          <li>Contact</li>
+        </Link>
+      </ul>
+    </nav>
+  );
+}

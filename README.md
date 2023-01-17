@@ -1,5 +1,8 @@
 # React Next.js Page Transitions with Framer Motion
 
+![image](https://user-images.githubusercontent.com/24994281/212955909-37a50607-b7e7-40c7-a0d3-d5407f671d01.png)
+
+
 This project is a demonstration of how to use [Next.js](https://nextjs.org/) and [Framer Motion](https://www.framer.com/motion/) to create smooth page transitions in a React application.
 
 ## Features

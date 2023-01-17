@@ -21,7 +21,7 @@ This project is a demonstration of how to use [Next.js](https://nextjs.org/) and
 3. npm install
 4. npm run dev
 5. Open http://localhost:3000 to view the application in the browser.
-
+```
 ## Technologies Used
 
 ### React
